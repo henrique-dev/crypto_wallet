@@ -1,0 +1,12 @@
+pt-BR:
+  welcome: "Seja bem vindo!"
+  messages:
+    welcome: "Este é o CryptoWallet, uma app para você cadastrar e acompanhar as suas criptomoedas"
+    menu: "Para começar, selecione uma opção abaixo."
+    confirm: "Você tem certeza?"
+  links:
+    edit: "Editar"
+    show: "Mostrar"
+    delete: "Excluir"
+    new: "Novo"
+    back: "Voltar"
